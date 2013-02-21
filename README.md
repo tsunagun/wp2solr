@@ -1,4 +1,4 @@
-# Wikipediaインポート
+# wp2solr
 
 ## 概要
 
